@@ -1,7 +1,10 @@
 #
 # This file contains configuration flags to customize your site
 #
-
+---
+layout: default
+comments: true
+---
 # Name of your site (displayed in the header)
 name: Rahul
 
