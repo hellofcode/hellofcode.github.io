@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-i will something here later . just remind me someday . 
+i will add something here later . just remind me someday . 
 
 ### More Information
 
